@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Vitor
+# 👋 Olá, eu sou o João Vitor
 
 **Analista de QA | Testes Manuais • Testes de API • Automação (Cypress) • SQL**
 
