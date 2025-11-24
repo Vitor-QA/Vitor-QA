@@ -1,6 +1,6 @@
 Olá, eu sou o Vitor
 
-Analista de Controle de Qualidade | Testes Manuais • Testes de API • Automação (Cypress) • SQL**
+Analista de Controle de Qualidade | Testes Manuais • Testes de API • Automação (Cypress) • SQL
 
 ---
 
